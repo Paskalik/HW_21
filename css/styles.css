@@ -1,0 +1,144 @@
+body {
+    width: 90%;
+    margin-left: 5%!important;
+}
+.nav-wrapper {
+    background-color: #2b66ab;
+    padding-left: 4em;
+    padding-right: 4em;
+}
+.myContainer {
+    margin: 0 auto;
+    width: 90%;
+}
+td {
+    padding-left: 0!important;
+    padding-top: 0!important;
+    padding-right: 0!important;
+    padding-bottom: 0!important;
+    vertical-align: initial!important;
+}
+td ul, .marr ul {
+    margin: 0!important;
+}
+span.myBadge {
+    position: initial!important;
+    padding: 3px 6px!important;
+    min-width: 24px!important;
+}
+.myNav .active {
+    background-color: #d6f2fa;
+}
+.myNav li {
+    padding: 10px;
+}
+.myAlign {
+    vertical-align: middle;
+}
+.alrow {
+    padding-top: 0.5em!important;
+    padding-left: 2em!important;
+    padding-right: 2em!important;
+}
+.inline {
+    display: inline-flex;
+}
+.tl {
+    text-align: left!important;
+    padding-top: 1rem!important;
+    padding-bottom: 1rem!important;
+    font-size: 18px;
+}
+.mirror {
+    transform: scale(-1, 1)
+}
+.devider {
+    border-bottom: 1px solid rgba(160, 160, 160, 0.2);
+    padding-bottom: 15px;
+}
+.marr {
+    margin-top: 20px;
+    margin-bottom: 0!important;
+}
+.mar {
+    margin-bottom: 10px;
+}
+.mr {
+    margin-right: 20px!important;
+}
+.t2 {
+    font-size: 18px;
+}
+.bold {
+    font-weight: bolder!important;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.31);
+    max-height: 70px;
+}
+.time {
+    display: inline-flex;
+}
+.time li {
+    margin-right: 20px;
+}
+.det {
+    font-weight: bolder!important;
+    text-align: right;
+}
+.link {
+    color: inherit!important;
+    margin-right: inherit!important;
+    text-transform: inherit!important;
+}
+.search {
+    margin-top: 0!important;
+    margin-bottom: 0!important;
+    padding-left: 0!important;
+    padding-right: 0!important;
+}
+input[type=search] {
+    width: 75%!important;
+}
+.btn-large {
+    width: 56px!important;
+}
+input {
+    margin-bottom: 0.5rem!important;
+    border-bottom: 1px solid rgb(231, 231, 231) !important;
+}
+.event {
+    padding-top: 1rem!important;
+    padding-left: 1.5rem!important;
+}
+.btn-floating {
+    background-color: #2b66ab!important;
+}
+.point {
+    cursor: pointer;
+}
+.bol {
+    font-weight: bold;
+}
+.sec {
+    top: 8px!important;
+}
+ul.collection {
+    margin-top: 0!important;
+    margin-bottom: 0!important;
+}
+.collection-item {
+    min-height: 50px;
+}
+.ava {
+    padding: 0 2rem 0 0.5rem;
+    vertical-align: top;
+}
+.mar2 {
+    min-height: 80px!important;
+}
+.send {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 20px;
+    width: 80%;
+}
